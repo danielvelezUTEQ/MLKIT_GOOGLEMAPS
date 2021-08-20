@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600987897804",
+    "project_id": "pruebaapp-moviles-c2",
+    "storage_bucket": "pruebaapp-moviles-c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600987897804:android:417ccd93f3e3c852599769",
+        "android_client_info": {
+          "package_name": "com.example.pruebaapp_moviles_c2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600987897804-u1n89lhufo1v23ceeae95sdvau13a8d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUJCGKhi0zGtV0jHKod1rt_F-Vv6RMSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600987897804-u1n89lhufo1v23ceeae95sdvau13a8d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
